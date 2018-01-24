@@ -1,0 +1,14 @@
+{
+    "name": "spudro/amphpexample",
+    "type": "project",
+    "require": {
+        "amphp/socket": "^0.10.5"
+    },
+    "license": "no-license",
+    "authors": [
+        {
+            "name": "spudro",
+            "email": "mompizzapls@mail.ru"
+        }
+    ]
+}
